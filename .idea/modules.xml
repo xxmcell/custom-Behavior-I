@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyBehavior.iml" filepath="$PROJECT_DIR$/MyBehavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottomsheelbehavior/bottomsheelbehavior.iml" filepath="$PROJECT_DIR$/bottomsheelbehavior/bottomsheelbehavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleimageview/circleimageview.iml" filepath="$PROJECT_DIR$/circleimageview/circleimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complecation/complecation.iml" filepath="$PROJECT_DIR$/complecation/complecation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snackbar/snackbar.iml" filepath="$PROJECT_DIR$/snackbar/snackbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipedismissbehavior/swipedismissbehavior.iml" filepath="$PROJECT_DIR$/swipedismissbehavior/swipedismissbehavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testbehavior/testbehavior.iml" filepath="$PROJECT_DIR$/testbehavior/testbehavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhihu/zhihu.iml" filepath="$PROJECT_DIR$/zhihu/zhihu.iml" />
+    </modules>
+  </component>
+</project>

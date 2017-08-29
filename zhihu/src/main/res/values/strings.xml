@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="scale_behavior">com.itheima.jason.myapplication.scale_behavior</string>
+</resources>
