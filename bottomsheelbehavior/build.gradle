@@ -5,7 +5,7 @@ android {
     buildToolsVersion "26.0.0"
 
     defaultConfig {
-        applicationId "com.itheima.jason.bottomsheelbehavior"
+        applicationId "com.it.jason.bottomsheelbehavior"
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 1

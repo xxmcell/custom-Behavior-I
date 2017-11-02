@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.itheima.jason.mybehavior"
+        applicationId "com.it.jason.mybehavior"
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1

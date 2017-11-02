@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "com.itheima.jason.myapplication"
+        applicationId "com.it.jason.myapplication"
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1

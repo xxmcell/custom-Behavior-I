@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "com.itheima.jason.snackbar"
+        applicationId "com.it.jason.snackbar"
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1
